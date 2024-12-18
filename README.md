@@ -24,6 +24,9 @@
   ![Desktop 1](./assets/desktop1.png)
   ![Desktop 2](./assets/desktop2.png)
 
+  #### Chrome
+  ![Google Chrome](./assets/chrome.png)
+
   #### Discord
   ![Discord](./assets/discord.png)
 
