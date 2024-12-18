@@ -25,7 +25,7 @@
   ![Desktop 2](./assets/desktop2.png)
 
   #### Discord
-  ![Discord](./assets/Discord.png)
+  ![Discord](./assets/discord.png)
 
   #### Spotify
   ![Spotify](./assets/spotify.png)
