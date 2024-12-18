@@ -34,16 +34,16 @@
 ## Installation
 
 <details>
-  <summary>Dependencies</summary>
+  ### <summary>Dependencies</summary>
 
-  ### System Dependencies
+  #### System Dependencies
   - Git
   - ArchWSL (Very Optional)
   - Node.JS
   - Npm
   - Python
 
-  ### Main Dependencies
+  #### Main Dependencies
   - GlazeWM                     - Dynamic Window Manager
   - Zebar                       - Status Bar
   - PowerToys                   - Powertoys Run
@@ -54,7 +54,7 @@
   - NeoVim                      - Text & Code Editor
   - WezTerm                     - Terminal
 
-  ### Optional Dependencies
+  #### Optional Dependencies
   - Discord
   - Better Discord
   - Spotify
@@ -63,7 +63,7 @@
   - Stylus (Browser Extension)
 </details>
 
-## Steps to Install / Apply
+#### Steps to Install / Apply
 
-### 1. Install all the [Dependencies}(#dependencies)
-### 2. 
+1. Install all the [Dependencies}(#dependencies)
+2. 
