@@ -68,5 +68,5 @@
 
 #### Steps to Install / Apply
 
-1. Install all the [Dependencies}(#dependencies)
+1. Install all the [Dependencies](#installation)
 2. 
